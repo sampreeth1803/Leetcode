@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sampreeth1803/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sampreeth1803/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sampreeth1803/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3379-transformed-array](https://github.com/sampreeth1803/Leetcode/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sampreeth1803/Leetcode/tree/master/0067-add-binary) |
+| [3379-transformed-array](https://github.com/sampreeth1803/Leetcode/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
