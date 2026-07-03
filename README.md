@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sampreeth1803/Leetcode/tree/master/0001-two-sum) |
+| [0877-stone-game](https://github.com/sampreeth1803/Leetcode/tree/master/0877-stone-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sampreeth1803/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sampreeth1803/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sampreeth1803/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sampreeth1803/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sampreeth1803/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/sampreeth1803/Leetcode/tree/master/0067-add-binary) |
+| [0877-stone-game](https://github.com/sampreeth1803/Leetcode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sampreeth1803/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sampreeth1803/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0877-stone-game](https://github.com/sampreeth1803/Leetcode/tree/master/0877-stone-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sampreeth1803/Leetcode/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/sampreeth1803/Leetcode/tree/master/3379-transformed-array) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sampreeth1803/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
