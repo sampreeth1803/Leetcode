@@ -1,9 +1,13 @@
 class Solution(object):
     def constructTransformedArray(self, nums):
         n = len(nums)
-        result = [0] * n
+        result = list(nums)
         for i in range(n):
-            landing_index = (i + nums[i]) % n
-            result[i] = nums[landing_index]
+            if nums[i]==0:
+                result[i]=0
+            if nums[i]>0:
+                result[i]=nums[(i+nums[i])%n]
+            if nums[i]<0:
+                result[i]=nums[(n+(i+nums[i]))%n]
         return result
         
