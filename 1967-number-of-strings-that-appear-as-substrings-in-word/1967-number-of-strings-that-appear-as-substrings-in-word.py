@@ -1,9 +1,3 @@
-import re
-class Solution:
-    def numOfStrings(self, patterns: List[str], word: str) -> int:
-        pattern=r'[a-z]'
-        count=0
-        for pattern in patterns:
-            if re.search(pattern,word):
-                count+=1
-        return count
+class Solution(object):
+    def numOfStrings(self, patterns, word):
+        return sum(1 for p in patterns if p in word)
