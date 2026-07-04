@@ -1,3 +1,7 @@
 class Solution(object):
     def numOfStrings(self, patterns, word):
-        return sum(1 for p in patterns if p in word)
+        a=0
+        for i in patterns:
+            if i in word:
+                a+=1
+        return a
