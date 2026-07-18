@@ -4,8 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        def find_gcd(a, b):
+        def gcd(a, b):
             while b:
                 a, b = b, a % b
             return a
-        return find_gcd(min(nums),max(nums))
+        return gcd(min(nums),max(nums))
