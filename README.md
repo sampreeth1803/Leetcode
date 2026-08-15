@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sampreeth1803/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sampreeth1803/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/sampreeth1803/Leetcode/tree/master/0066-plus-one) |
+| [0414-third-maximum-number](https://github.com/sampreeth1803/Leetcode/tree/master/0414-third-maximum-number) |
 | [0877-stone-game](https://github.com/sampreeth1803/Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/sampreeth1803/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/sampreeth1803/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/sampreeth1803/Leetcode/tree/master/0414-third-maximum-number) |
 | [1331-rank-transform-of-an-array](https://github.com/sampreeth1803/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sampreeth1803/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sampreeth1803/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
