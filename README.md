@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sampreeth1803/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/sampreeth1803/Leetcode/tree/master/0066-plus-one) |
 | [0414-third-maximum-number](https://github.com/sampreeth1803/Leetcode/tree/master/0414-third-maximum-number) |
+| [0500-keyboard-row](https://github.com/sampreeth1803/Leetcode/tree/master/0500-keyboard-row) |
 | [0877-stone-game](https://github.com/sampreeth1803/Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/sampreeth1803/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/sampreeth1803/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sampreeth1803/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sampreeth1803/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sampreeth1803/Leetcode/tree/master/0013-roman-to-integer) |
+| [0500-keyboard-row](https://github.com/sampreeth1803/Leetcode/tree/master/0500-keyboard-row) |
 | [1189-maximum-number-of-balloons](https://github.com/sampreeth1803/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/sampreeth1803/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sampreeth1803/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sampreeth1803/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sampreeth1803/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/sampreeth1803/Leetcode/tree/master/0067-add-binary) |
+| [0500-keyboard-row](https://github.com/sampreeth1803/Leetcode/tree/master/0500-keyboard-row) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sampreeth1803/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/sampreeth1803/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sampreeth1803/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
